@@ -7,3 +7,4 @@ console.log("牛牛牛牛牛")
 console.log("jjsdjfi")
 //当修改文件之后需要重新使用 git add命令
 //git commit -m "加入到版本库的说明" 将修改提交到版本库 
+//git fill 对比当前版本与上一个版本的区别
